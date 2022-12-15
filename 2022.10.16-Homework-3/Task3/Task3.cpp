@@ -4,6 +4,7 @@ int main(int argc, char* argv[])
 {
 	int n = 0;
 	int j = 1;
+
 	std::cin >> n;
 
 	do
